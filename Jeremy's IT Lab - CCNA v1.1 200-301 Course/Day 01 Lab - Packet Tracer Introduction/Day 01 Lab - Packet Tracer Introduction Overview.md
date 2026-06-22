@@ -18,3 +18,14 @@ Use a Laptop as the 'attacker' in the diagram.
 
 **Connect the devices together using Packet Tracer's
 'Automatically Choose Connection Type' function**
+
+    Answer:
+    1. In the left corner, click Network Devices, click Router, drag 2911.
+    2. Click Switches, drag 2960.
+    3. Click Security, drag 5505.
+    4. Click End Devices, drag PC.
+    5. Drag Server.
+    6. Drag Laptop.
+    7. Click Connections.
+    8. Click "orange lightning (auto)" connections.
+    9. Connect all devices.
