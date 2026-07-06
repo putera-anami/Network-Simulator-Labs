@@ -102,3 +102,4 @@ Configure static routes on each router so that all PCs can ping eachother.
     2. R1:
         - In global config mode, type: ip route 192.168.5.192 255.255.255.240 192.168.5.226
         - Type: ip route 192.168.5.208 255.255.255.240 192.168.5.226
+        - Type: do sh ip route
