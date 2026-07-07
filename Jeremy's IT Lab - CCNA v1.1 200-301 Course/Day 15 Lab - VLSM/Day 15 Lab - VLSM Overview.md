@@ -22,7 +22,6 @@ Subnet the 192.168.5.0/24 network to provide sufficient addressing for each LAN.
         - network address: 192.168.5.224
         - usable address: 192.168.5.225 - 192.168.5.226 (2 address)
         - broadcast address: 192.168.5.227
-
 ---
 Assign the first usable address to the PC in each LAN.
 
@@ -52,7 +51,6 @@ Assign the first usable address to the PC in each LAN.
         - Click FastEthernet0
         - In IPv4 Address text input, type: 192.168.5.209
         - In subnet mask input, change it to: 255.255.255.240
-
 ---
 Assign the last usable address to the router's interface in each LAN.
 
