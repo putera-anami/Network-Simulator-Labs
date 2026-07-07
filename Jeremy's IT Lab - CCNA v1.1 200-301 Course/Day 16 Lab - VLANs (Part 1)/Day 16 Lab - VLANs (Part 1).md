@@ -92,3 +92,6 @@
       (use Packet Tracer's 'Simulation Mode')
 
     Answer:
+    1. Click PC1 > Desktop > Command Prompt
+    2. Type: ping 10.0.0.65
+    3. Type: ping 10.0.0.63
